@@ -1,6 +1,5 @@
 package duck.overload.openai.client;
 
-import duck.overload.openai.model.OpenAIResponse;
 import duck.overload.openai.service.OpenAIService;
 import lombok.AllArgsConstructor;
 import okhttp3.OkHttpClient;
